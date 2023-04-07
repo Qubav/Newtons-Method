@@ -1,7 +1,7 @@
 import imp
 from UIMW import Ui_MainWindow
 import sys
-from metoda_newtona import Newton
+from newtons_method import Newton
 import sympy as sp
 from functionStringParser import function_string_parser
 from matplotlib.backends.backend_qt5agg import NavigationToolbar2QT as NavigationToolbar
